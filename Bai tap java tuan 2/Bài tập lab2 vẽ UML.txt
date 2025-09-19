@@ -1,0 +1,53 @@
+Bài 1:
++----------------------+
+|       Account        |
++----------------------+
+| - maSoTaiKhoan : String |
+| - soTien : double    |
++----------------------+
+| + getMaSoTaiKhoan()  |
+| + setMaSoTaiKhoan()  |
+| + getSoTien()        |
+| + setSoTien()        |
++----------------------+
+
+Bài 2:
++----------------------+
+|        Book          |
++----------------------+
+| - maSach : String    |
+| - tenSach : String   |
+| - giaSach : double   |
+| - giamGia : double   |
++----------------------+
+| + giaBan()           |
+| + inThongTin()       |
+| + getter/setter      |
++----------------------+
+
+Bài 3:
++----------------------+
+|       Student        |
++----------------------+
+| - maSV : String      |
+| - hoTen : String     |
+| - namSinh : int      |
+| - diaChi : String    |
++----------------------+
+| + tinhTuoi() : int   |
+| + inThongTin()       |
+| + getter/setter      |
++----------------------+
+
+Bài 4:
++----------------------+
+|        Circle        |
++----------------------+
+| - banKinh : double   |
++----------------------+
+| + nhap()             |
+| + xuat()             |
+| + dienTich() : double|
+| + chuVi() : double   |
+| + getter/setter      |
++----------------------+
